@@ -19,11 +19,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
   splashscreen: ^1.2.0
+  http: ^0.12.1
 
 
 dev_dependencies:
@@ -59,12 +57,10 @@ flutter:
   # list giving the asset and other descriptors for the font. For
   # example:
   fonts:
-    - family: Lemonada, Podkova, Comfortaa
+    - family: Comfortaa
       fonts:
-        - asset: assets/fonts/Lemonada-Regular.ttf
-        - asset: assets/fonts/Podkova-SemiBold.ttf
         - asset: assets/fonts/Comfortaa-Bold.ttf
-          style: italic
+
   #   - family: Trajan Pro
   #     fonts:
   #       - asset: fonts/TrajanPro.ttf
