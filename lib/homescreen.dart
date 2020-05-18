@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:splashscreen/splashscreen.dart';
 import 'after_splash.dart';
 
+
 class LoadingScreen extends StatefulWidget {
   @override
   _LoadingScreenState createState() => _LoadingScreenState();
@@ -17,7 +18,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
     getCountryData();
   }
 
-  void getCountryData() async {
+  getCountryData() async {
     NetworkHelper networkHelper = NetworkHelper(
         'https://disease.sh/v2/countries/india?yesterday=false&strict=true');
     NetworkHelper networkHelperglobal =

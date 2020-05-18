@@ -180,7 +180,7 @@ class _AfterSplashState extends State<AfterSplash> {
                     ),
                   ),
                   Padding(
-                    padding: const EdgeInsets.only(top: 10.0),
+                    padding: EdgeInsets.only(top: 30),
                     child: Text(
                       'Global Outbreak',
                       style: TextStyle(
