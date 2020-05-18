@@ -1,4 +1,4 @@
-# Covid-19 Tracker ![icon](https://github.com/sauravarya25/Covid_Tracker/blob/master/assets/coronavirus.png)
+# CovidTracker![icon](https://github.com/sauravarya25/Covid_Tracker/blob/master/assets/coronavirus.png)
 
 A new Flutter application.
 
