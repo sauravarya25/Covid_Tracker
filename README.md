@@ -2,5 +2,5 @@
 
 A new Flutter application.
 
-## APK file
-Download from here: shorturl.at/m1238
+## Download APK file
+- https://www.shorturl.at/m1238
